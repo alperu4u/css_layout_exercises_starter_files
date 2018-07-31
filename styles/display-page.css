@@ -1,0 +1,57 @@
+main {
+	font-size: 0px;
+}
+.box-main {
+	margin-top:90px;
+	margin-right:auto;
+	margin-left: auto;
+	width: 800px;
+}
+
+.box {
+	border:1px solid black;
+	display: inline-block;
+}
+.green {
+	background-color:green;
+	border:1px solid black;
+}
+.blue {
+	background-color: blue;
+	border:1px solid black;
+}
+
+.topbox {
+	width:50%;
+	height:200px;
+
+}
+
+.grey {
+	background-color: grey;
+	border:1px solid black;
+}
+
+.black {
+	background-color: black;
+	border:1px solid black;
+
+}
+
+.yellow {
+	background-color: yellow;
+	border:1px solid black;
+
+}
+
+.bottombox {
+	width: 33.33%;
+	height: 300px;
+}
+
+.center{
+	text-align: center;
+}
+
+
+
