@@ -10,3 +10,14 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.cloud {
+	float:left;
+	margin-right:10px;
+}
+
+.nebula {
+	float:right;
+	margin-left: 10px;
+	
+}
